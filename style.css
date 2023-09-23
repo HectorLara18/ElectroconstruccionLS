@@ -143,6 +143,10 @@ main {
     color: black;
 }
 
+.contenido-principal H2 b{
+    color: var(--brand_green);
+}
+
 /**@media only screen and (min-width:320px) and (max-width:768px) {
 
     .slider,
