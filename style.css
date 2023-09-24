@@ -19,7 +19,7 @@
     padding: 10px;
     gap: 10px;
     justify-content: center;
-    width: 80%;
+    width: fit-content;
     margin: auto;
 }
 
@@ -40,6 +40,7 @@
     background-color: var(--color_fondo);
     color: black;
     border-radius: 5px;
+    
 }
 
 .grid1 p{
@@ -85,6 +86,7 @@ i {
 
 main {
     background-color: var(--color_fondo);
+    width: fit-content;
 }
 
 .slider {
